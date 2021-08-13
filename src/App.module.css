@@ -1,0 +1,18 @@
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 60px;
+  padding: 0px 16px;
+  border-bottom: 1px solid rgb(234, 234, 234);
+}
+
+.section {
+  padding: 16px;
+}
+
+.container {
+  padding: 16px;
+}
