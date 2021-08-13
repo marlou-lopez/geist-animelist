@@ -4,5 +4,14 @@
 }
 
 .image {
-  background-color: aqua;
+  margin: 0;
+  object-fit: scale-down;
+  display: block;
+  border-radius: 5px;
+  overflow: hidden;
+  height: 200px;
+}
+
+.listitem {
+  width: 100%;
 }
